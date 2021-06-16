@@ -26,7 +26,7 @@ h2, h1, footer{
 }
 h1{
     font-size: 35px;
-    line-height: 29.64px;
+    line-height: 1;
 }
 
 h2{
@@ -37,7 +37,7 @@ h2{
 }
 dt, dd, li{
     font-size: 15px;
-    line-height: 16.68px;
+    line-height: 1.5;
 
 }
 
