@@ -1,0 +1,58 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+footer, header{
+    text-align: center;
+}
+header{
+    background-color: rgba(229, 229, 229, 1);
+
+}
+main{
+    margin: 50px auto; 
+    max-width: 1041px;
+
+}
+h1, h2{
+    background-color: rgba(196, 196, 196, 1);
+    color: rgba(0, 86, 119, 1);
+    text-transform: uppercase;
+
+}
+h2, h1, footer{
+    padding-bottom: 1%;
+    padding-top: 1%;
+
+}
+h1{
+    font-size: 35px;
+    line-height: 29.64px;
+}
+
+h2{
+    font-size: 20px;
+    line-height: 16.94px;
+    padding-left: 1%;
+    
+}
+dt, dd, li{
+    font-size: 15px;
+    line-height: 16.68px;
+
+}
+
+span{
+    font-weight: 700;
+}
+
+.span-datos-personales{
+    font-style: italic;
+}
+
+footer{
+    background-color: rgba(0, 86, 119, 1);
+}
+.span-footer{
+    color: white;
+    text-transform: uppercase;
+}
